@@ -9,5 +9,26 @@ library(DataComputing)
 ```
 <!-- put your content after this line -->
 
-#Mexico
-##Latin America
+#Frida Kahlo
+
+Frida Kahlo de Rivera, born Magdalena Carmen Frida Kahlo y Calderón was a Mexican painter known for her self-portraits.
+
+Kahlo's life began and ended in Mexico City, in her home, which is known as "La Casa Azul," the Blue House. Her work has been celebrated internationally as emblematic of Mexican national and indigenous traditions, and by feminists for its uncompromising depiction of the female experience and form. At approximately 6 a.m. on July 13, 1954, she was found dead in her bed by her nurse. Kahlo was 47 years old. The official cause of death was pulmonary embolism.
+
+Kahlo suggested, "I paint myself because I am so often alone and because I am the subject I know best."
+
+
+##Career as painter
+1. 1924 - Tray with Poppies
+2. 1930 - Self-portrait
+3. 1937 - Cactus Fruits
+4. 1938 - Survivor
+5. 1939 - The Two Fridas
+6. 1942 - Flower Basket
+
+##5 best places to see her art
+- Frida Kahlo Museum
+- Museo Dolores Olmedo
+- Museo de Arte Moderno
+- MoMA New York City
+. National Museum of Women in the Arts
